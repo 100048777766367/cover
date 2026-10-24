@@ -1,0 +1,11 @@
+{
+    "contract_id": "bodhi.cover.v1",
+    "identity": "100048777766367/cover",
+    "archetype": "COMPUTE_FORGE",
+    "role": "XOR_COMPOUNDING_FORGE",
+    "network_partners": {
+        "medicine": "100048777766367/medicine",
+        "storage": "100048777766367/storage"
+    },
+    "io_specification": "I/O (XOR_COMPOUNDING_FORGE)"
+}
